@@ -26,6 +26,7 @@ This project leverages Power BI to help organizations improve employee performan
 - Enables proactive decision-making to improve employee satisfaction and retention rates
 
 📸 Dashboard Preview
-<img width="1092" height="610" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/fb87a6d8-d316-426c-8774-c2fe16bea374" />
+<img width="1087" height="604" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/f9f93e29-9344-42c0-9d17-f595c3657cd3" />
+
 
 
