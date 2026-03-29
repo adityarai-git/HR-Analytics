@@ -24,6 +24,7 @@ This project leverages Power BI to help organizations improve employee performan
 - Supports HR in designing retention strategies
 - Provides clarity on performance trends across departments
 - Enables proactive decision-making to improve employee satisfaction and retention rates
+
 📸 Dashboard Preview
 <img width="1092" height="610" alt="HR Analytics Dashboard" src="https://github.com/user-attachments/assets/fb87a6d8-d316-426c-8774-c2fe16bea374" />
 
